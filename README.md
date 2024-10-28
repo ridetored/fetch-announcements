@@ -6,7 +6,7 @@ This project uses ZenRows API to scrape announcements from a specified URL, form
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/dynamic-announcement-fetcher.git
+    git clone https://github.com/ridetored/fetch-announcements.git
     ```
 2. Install and configure WordPress.
 3. Place the `fetch_announcements.php` and `config.php` files in your theme directory.
